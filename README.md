@@ -1,2 +1,2 @@
-# Walmart-Layihe
+# Power BI-Project
 Data visualization and business intelligence reporting for Walmart sales dataset.
